@@ -1,3 +1,4 @@
+/*! http://mths.be/oninput by @mathias */
 jQuery.fn.input = function(fn) {
 	var $this = this;
 	return fn
