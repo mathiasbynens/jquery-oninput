@@ -23,7 +23,7 @@ $('input, textarea').input(function(event) {
 ## Notes
 
 * Works in all A-grade browsers, including IE6. In case `oninput` is not supported, `onkeydown` is used instead.
-* This plugin doesn’t work for live events.
+* This plugin doesn’t support event delegation.
 
 ## License
 
